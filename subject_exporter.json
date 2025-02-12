@@ -3,7 +3,7 @@
   "app_id" : "OpenLisCS",
   "app_vendor" : "Engineering_Ingegneria_Informatica_S.p.A",
   "app_version" : "21.01.00",
-  "tests" : [ 1, 2, 3, 4, 5 ]
+  "tests" : [ 1, 2, 3, 4, 8 ]
 }, {
   "status" : true,
   "app_id" : "OpenLisWeb",
